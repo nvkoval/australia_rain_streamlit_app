@@ -1,7 +1,10 @@
 # Rain in Australia - Streamlit App
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://australia-rain-predict.streamlit.app/)
+
 This project predicts whether it will rain tomorrow in Australia using historical weather data and machine learning models. The app provides an interactive interface for users to input weather parameters and get predictions, as well as visualize weather trends.
 
+ **Live App**: [australia-rain-predict.streamlit.app](https://australia-rain-predict.streamlit.app/)
 
 ## Project Structure
 
@@ -38,7 +41,7 @@ This project predicts whether it will rain tomorrow in Australia using historica
    git clone https://github.com/nvkoval/australia_rain_streamlit_app.git
    cd australia_rain_streamlit_app
    ```
-2. Create a virtual environment (optional but recommended):
+2. **Create a virtual environment** (optional but recommended)
 
    ```sh
    python -m venv venv
